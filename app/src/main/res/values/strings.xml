@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_change_password">ChangePasswordActivity</string>
+    <string name="title_activity_game_history">GameHistoryActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
